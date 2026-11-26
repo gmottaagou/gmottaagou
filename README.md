@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gmottaagou)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gmottaagou&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=gmottaagou&langs_count=4&theme=swift)
