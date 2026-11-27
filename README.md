@@ -12,6 +12,10 @@ Computer Science undergraduate at CESAR School.
 - 🌱 I’m currently learning:
 
 [![My Skills](https://skillicons.dev/icons?i=js,cpp)](https://skillicons.dev)
+
+- 📫 How to reach me:
+guilhermemagouveia@gmail.com | guilhermemagou@icloud.com
+
 - 🔭 I’m currently working on:
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=gmottaagou&repo=yuk1407%2FArduino-Projetos-1&theme=dark_github_repocard)](https://github.com/yuk1407/Arduino-Projetos-1)
